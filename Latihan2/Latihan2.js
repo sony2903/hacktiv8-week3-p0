@@ -6,4 +6,4 @@ function balikString(kata){
     }
     return katabalik
 }
-console.log(balikString('hello world! '))
+console.log(balikString('hello world!'))
